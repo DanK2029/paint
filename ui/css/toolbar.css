@@ -1,0 +1,12 @@
+QWidget#Toolbar {
+    background-color: rgb(184, 184, 184);
+}
+
+QPushButton {
+    background-color: rgb(184, 184, 184);
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: rgb(140, 140, 140);
+}
